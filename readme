@@ -1,1 +1,2 @@
 salut
+Commande pour mettre un fichier en caché =  git rm --cached .password-local
